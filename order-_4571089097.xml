@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><E-Document>
+<Header>
+<DateIssued>2024-05-02</DateIssued>
+<SenderID>10263574</SenderID>
+<ReceiverID>12507106</ReceiverID>
+</Header>
+<Document>
+<DocumentType>order</DocumentType>
+<DocumentFunction>original</DocumentFunction>
+<DocumentParties>
+<BuyerParty>
+<PartyCode>10263574</PartyCode>
+<Name>Rimi Eesti Food AS</Name>
+<RegNum>10263574</RegNum>
+<VATRegNum>EE100062786</VATRegNum>
+<GLN>4740636000000</GLN>
+<ContactData>
+<PhoneNum/>
+<EmailAddress>Kristiine.Joema@rimibaltic.com</EmailAddress>
+<ActualAddress>
+<Address1/>
+<City/>
+</ActualAddress>
+</ContactData>
+</BuyerParty>
+<DeliveryParty>
+<PartyCode>10263574</PartyCode>
+<Name>Central Kitchen Estonia</Name>
+<GLN>4751008573114</GLN>
+<ContactData>
+<ActualAddress>
+<Address1>Põrguvälja tee 3, Rae vald</Address1>
+<City>Jüri</City>
+<PostalCode>75308</PostalCode>
+<CountryCode>EE</CountryCode>
+</ActualAddress>
+</ContactData>
+</DeliveryParty>
+<SupplierParty>
+<PartyCode>12507106</PartyCode>
+<Name>Hanse OÜ</Name>
+<RegNum>12507106</RegNum>
+<VATRegNum>EE101666288</VATRegNum>
+<GLN>4740154999992</GLN>
+<ContactData>
+<ActualAddress>
+<Address1>Punane 42</Address1>
+<City>Tallinn</City>
+<PostalCode>13619</PostalCode>
+<CountryCode>EE</CountryCode>
+</ActualAddress>
+</ContactData>
+</SupplierParty>
+<SellerParty>
+<PartyCode>12507106</PartyCode>
+<Name>Hanse OÜ</Name>
+<RegNum>12507106</RegNum>
+<VATRegNum>EE101666288</VATRegNum>
+<GLN>4740154999992</GLN>
+<ContactData>
+<ActualAddress>
+<Address1>Punane 42</Address1>
+<City>Tallinn</City>
+<PostalCode>13619</PostalCode>
+<CountryCode>EE</CountryCode>
+</ActualAddress>
+</ContactData>
+</SellerParty>
+</DocumentParties>
+<DocumentInfo>
+<DocumentSubType>order</DocumentSubType>
+<DocumentName>tellimus</DocumentName>
+<DocumentNum>4571089097</DocumentNum>
+<PaymentTerm/>
+<DateInfo>
+<OrderDate>2024-05-02</OrderDate>
+<DeliveryDateRequested>2024-05-03</DeliveryDateRequested>
+<ProcessingDate>2024-05-02</ProcessingDate>
+</DateInfo>
+<CreatedByContact>
+<EmailAddress>Kristiine.Joema@rimibaltic.com</EmailAddress>
+</CreatedByContact>
+<Attachments/>
+</DocumentInfo>
+<DocumentSumGroup>
+<Currency>EUR</Currency>
+<DocumentSum>588.0000</DocumentSum>
+<VAT vatID="TAX">
+<SumBeforeVAT>588.0000</SumBeforeVAT>
+<VATRate>22.00</VATRate>
+</VAT>
+</DocumentSumGroup>
+<DocumentItem>
+<ItemEntry>
+<LineItemNum>10</LineItemNum>
+<SellerItemCode>115281</SellerItemCode>
+<GTIN>4002671143419</GTIN>
+<BuyerItemCode>229499</BuyerItemCode>
+<ItemDescription>KESKKÖÖK TOORJUUST</ItemDescription>
+<ItemUnitRecord>
+<ItemUnit>tk</ItemUnit>
+<ItemPrice>4.9000</ItemPrice>
+</ItemUnitRecord>
+<BaseUnit>tk</BaseUnit>
+<AmountOrdered>120.000</AmountOrdered>
+<ItemPrice>4.9000</ItemPrice>
+<ItemSum>588.0000</ItemSum>
+<VAT vatID="TAX">
+<SumBeforeVAT>588.0000</SumBeforeVAT>
+<VATRate>22.00</VATRate>
+<VATSum>129.3600</VATSum>
+</VAT>
+<BestBeforeMin>2024-05-09</BestBeforeMin>
+</ItemEntry>
+</DocumentItem>
+</Document>
+</E-Document>
